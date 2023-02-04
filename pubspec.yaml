@@ -24,7 +24,7 @@ dependencies:
   awesome_snackbar_content:
     git:
       url: https://github.com/Nightbl927/i18n_extension.git
-      ref: main # branch name
+      ref: master # branch name
   device_info_plus: ^8.0.0
   platform: ^3.1.0
   pasteboard: ^0.2.0
