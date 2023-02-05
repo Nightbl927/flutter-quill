@@ -26,6 +26,7 @@ dependencies:
     git:
       url: https://github.com/Nightbl927/math_keyboard.git
       ref: main # branch name
+      path: math_keyboard
   string_validator: ^0.3.0
 
 #dependency_overrides:
